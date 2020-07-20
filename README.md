@@ -1,4 +1,13 @@
-### Hi there 👋
+# Woah
+
+Who's that self-assured, confident dev over to the left there?
+No really, let me know because I'm trying to figure that out.
+
+All I know at this point is that he likes working with Javascript and the Front End. Designing front ends is fun and there are so many different ways of playing with React and Svelte and Crank and Electron and Tauri and wow the list doesn't stop does it?
+
+Maybe one day this github profile will have useful stuff for people. But for now most of my repositories are private because I am hyper critical of my own code.
+
+If you wanna connect just say hey! I'm generally friendly. I think. My cat thinks so.
 
 <!--
 **pridgey/pridgey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
