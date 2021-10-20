@@ -1,6 +1,6 @@
 # Woah
 
-Who's that self-assured, confident dev over to the left there?
+Who's that self-assured, confident dev?
 No really, let me know because I'm trying to figure that out.
 
 All I know at this point is that he likes working with Javascript and the Front End. Designing front ends is fun and there are so many different ways of playing with React and Svelte and Crank and Electron and Tauri and wow the list doesn't stop does it?
