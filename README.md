@@ -1,13 +1,14 @@
-# Woah
+# Hej! 
 
-Who's that self-assured, confident dev?
-No really, let me know because I'm trying to figure that out.
+I'm Taylor and I'm a front-end developer with a passion for UI/UX design.
 
-All I know at this point is that he likes working with Javascript and the Front End. Designing front ends is fun and there are so many different ways of playing with React and Svelte and Crank and Electron and Tauri and wow the list doesn't stop does it?
+I specialize in React and enjoy creating responsive, user-friendly interfaces that are both beautiful and functional. Recently, I've been exploring Solid.js and have been really impressed with its performance and simplicity. I'm always eager to learn new technologies and frameworks, and I enjoy collaborating with other developers to create innovative solutions. When I'm not coding, you can find me playing basketball or experimenting with new recipes in the kitchen.
 
-Maybe one day this github profile will have useful stuff for people. But for now most of my repositories are private because I am hyper critical of my own code.
+Assuming you're here to get to know me, here's two truths and a lie!
+1. I once worked as a stunt-driver for a TV show
+2. I've only received one speeding ticket in my life
+3. I tried the whole Youtuber thing once
 
-If you wanna connect just say hey! I'm generally friendly. I think. My cat thinks so.
 
 <!--
 **pridgey/pridgey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
